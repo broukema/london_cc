@@ -7,4 +7,4 @@ London code of conduct
 
 [Resources for further documentation](resources.md): examples of codes of conduct, and further resources.  
 
-Released under Creative Commons license.
+Released under Creative Commons license CC-0.
